@@ -16,3 +16,9 @@ git remote add origin https://github.com/Subhash-node/realTimeMachine.git (get h
 
 
 git pull origin brachname
+
+
+Wanna create new branch:
+----------------------
+
+git checkout -b "new branchname"
