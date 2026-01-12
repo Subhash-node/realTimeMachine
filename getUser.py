@@ -10,3 +10,6 @@ def getUserHistory():
     return {"previousLogins": 15, "comments": 128}
 def getUserNotifications():
     return {"unreadMessages": 5, "alerts": 2}
+
+if testUser == None:
+    return false;
