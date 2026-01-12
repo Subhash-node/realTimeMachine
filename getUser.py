@@ -12,4 +12,7 @@ def getUserNotifications():
     return {"unreadMessages": 5, "alerts": 2}
 
 if testUser == None:
-    return false;
+    return False;
+return True;
+def getUserStatus():
+    return {"online": True, "busy": False}
